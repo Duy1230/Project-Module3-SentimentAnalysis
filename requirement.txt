@@ -1,0 +1,7 @@
+contractions==0.1.73
+beautifulsoup4==4.12.3
+nltk==3.8.1
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
+streamlit==1.36.0
+pickle-mixin==1.0.2
