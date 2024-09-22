@@ -15,8 +15,8 @@ This project implements a sentiment analysis tool using various machine learning
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sentiment-analysis-project.git
-   cd sentiment-analysis-project
+   git clone https://github.com/Duy1230/Project-Module3-SentimentAnalysis.git
+   cd Project-Module3-SentimentAnalysis 
    ```
 
 2. Install the required packages:
